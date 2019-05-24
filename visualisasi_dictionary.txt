@@ -1,0 +1,1 @@
+{"labels": ["Surabaya Kota", "Bandung Kota", "Jakarta Timur", "Bekasi Kota", "Denpasar Kota", "Jakarta Selatan", "Medan Kota"], "k1": [212, 17, 27], "k2": [159, 25, 14], "k3": [132, 20, 18], "k4": [136, 19, 14], "k5": [144, 4, 6], "k6": [93, 19, 16], "k7": [95, 10, 11]}
